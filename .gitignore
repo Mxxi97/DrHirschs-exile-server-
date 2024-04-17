@@ -24,9 +24,9 @@ server/license.txt
 server/openssl_license.txt
 server/steam_appid.txt
 server/@Exileserver/exdb/logs
+
 server/@Exilemod/
-
-
+server/battleeye/
 logs/
 
 steamcmd/
@@ -35,3 +35,8 @@ Server/arma3server_readme.txt
 Server/arma3server.exe
 Server/arma3server_x64.exe
 Server/steamapps/appmanifest_233780.acf
+Server/mpmissions/Exile.Malden.pbo
+Server/mpmissions/Exile.Namalsk.pbo
+Server/mpmissions/Exile.Tanoa.pbo
+Server/mpmissions/ExileEscape.Altis.pbo
+Server/mpmissions/ExileEscape.Tanoa.pbo
